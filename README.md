@@ -1,16 +1,12 @@
-# social_elevator
+# Lingva TETRIS
 
-Social elevator game
+Lingva TETRIS — это игра для наработки навыка написания письменного перевода слов RU/EN.
 
-## Getting Started
+### суть идеи игры
 
-This project is a starting point for a Flutter application.
+В основном режиме игры на игровое поле падает блок со словом.
+Игроку надо успевать печать перевод, пока блок не "упал".
+"Упавшие" блоки попадают в список "на изучение", а "пойманные
+в полёте" — в список на повторение.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Стек:** _flutter, flame, isar..._ 
